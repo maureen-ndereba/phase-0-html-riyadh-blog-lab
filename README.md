@@ -4,6 +4,7 @@
 
 - Create an HTML structure for an existing mockup
 
+
 ## Introduction
 
 Web developers are often asked to work from a mockup of a potential webpage,
